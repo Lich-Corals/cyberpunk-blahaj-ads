@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="blahaj_ads" Build_date="7/8/2025 11:10:53 PM">
+  <Files>
+    <Directory Path="Z:\home\linus\.local\share\Steam\steamapps\common\Cyberpunk 2077\archive">
+      <Directory Path="Z:\home\linus\.local\share\Steam\steamapps\common\Cyberpunk 2077\archive\pc">
+        <Directory Path="Z:\home\linus\.local\share\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod">
+          <file>Z:\home\linus\.local\share\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod\blahaj_ads.archive</file>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>
