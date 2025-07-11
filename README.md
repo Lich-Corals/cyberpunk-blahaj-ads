@@ -2,6 +2,7 @@
 A simple mod replacing a bunch of textures to add Blåhaj themed ads and film posters.
 <br/><br/>
 [![Nexus Logo](https://img.shields.io/badge/-Nexus%20Mods-E6832B?style=for-the-badge&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/cyberpunk2077/mods/22624)
+[![Coffee Logo](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.coff.ee/lichcorals)
 <br/><br/>
 ![photomode_08072025_232805](https://github.com/user-attachments/assets/d63b6799-2c48-47e1-b580-55ec328e3891)
 <br/><br/>
