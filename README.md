@@ -2,11 +2,11 @@
 A simple mod replacing a bunch of textures to add Blåhaj themed ads and film posters.
 
 > [!IMPORTANT]  
-> For and Microsoft- and _other_-Reasons, this project will migrate to Codeberg soon.
+> For and Microsoft- and _other_ reasons, this project has been moved to Codeberg.
 >
 > If you still want to support this project, consider starring it on Codeberg.
 > 
-> [![Codeberg](https://img.shields.io/badge/-not_on_codeberg_yet-696969?style=for-the-badge&logo=Codeberg&logoColor=white)]()
+> [![Codeberg](https://img.shields.io/badge/-view_on_codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/Lich-Corals/cyberpunk-blahaj-ads)
 
 <br/><br/>
 [![Nexus Logo](https://img.shields.io/badge/-Nexus%20Mods-E6832B?style=for-the-badge&logo=nexusmods&logoColor=white)](https://www.nexusmods.com/cyberpunk2077/mods/22624)
